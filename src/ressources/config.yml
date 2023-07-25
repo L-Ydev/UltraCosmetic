@@ -1,0 +1,32 @@
+##           UltraCosmetic
+##
+## Développeur : Larry!
+## discord : larrydev
+## Github: github.com/larry000
+##
+## Version 1.97
+## Plugin de Cosmetics équipable, directement depuis l'inventaire du joueurs,
+## MCV Tested : 1.18.2 --> 1.19.3
+## Dep : "ItemsAdder"
+##
+
+hats:
+  - cosmetiques:astronaut
+  - snights_cosmetics_v1:brown_bear_hat
+  - snights_cosmetics_v1:chef_hat
+  - snights_cosmetics_v1:royal_crown
+  - valentines:heart_crown
+  - gambling_palace_set:hat_2
+  - gambling_palace_set:jester_helmet_1
+  - gambling_palace_set:smiley_mask
+  - valentines:teddy_helmet
+  - valentines:valentines_bear_hat
+chest:
+  - snights_cosmetics_v1:brown_bear_tail
+  - snights_cosmetics_v1:dog_rope
+  - snights_cosmetics_v1:dog_tail
+  - snights_cosmetics_v1:dragon_wing
+  - snights_cosmetics_v1:knife_backpack
+  - snights_cosmetics_v1:knight_cloak
+  - snights_cosmetics_v1:knight_sword
+  - snights_cosmetics_v1:krusty_krab_spatula
